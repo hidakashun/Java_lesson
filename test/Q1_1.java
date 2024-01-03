@@ -1,6 +1,6 @@
 package test;
 
-public class Q1 {
+public class Q11 {
 
 	public static void main(String[] args) {
 		// 変数: 2つの整数変数を宣言し、それらの合計を表示するプログラムを書いてください。

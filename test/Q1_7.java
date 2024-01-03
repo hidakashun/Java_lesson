@@ -1,6 +1,6 @@
 package test;
 
-public class Q7 {
+public class Q1_7 {
 
 	public static void main(String[] args) {
 		// 変数と条件分岐: 3つの整数変数を宣言し、最大の数を表示するプログラムを書いてください。

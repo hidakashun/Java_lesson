@@ -1,6 +1,6 @@
 package test;
 
-public class Q4 {
+public class Q1_4 {
 
 	public static void main(String[] args) {
 		// 配列: 5つの文字列を含む文字列配列を作成し、

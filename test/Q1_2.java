@@ -2,7 +2,7 @@ package test;
 
 import java.util.Scanner;
 
-public class Q2 {
+public class Q1_2 {
 
 	public static void main(String[] args) {
 		// 条件分岐: ユーザーから整数を入力として受け取り、
