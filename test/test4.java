@@ -26,7 +26,7 @@ public class test4 {
 
         // [11]~[19]までの偶数の値をカンマ区切りで表示
         System.out.print("偶数: ");
-        for (int i = 11; i < array.length; i++) {
+        for (int i = 11; i <= 19; i++) {
             if (array[i] % 2 == 0) {
                 System.out.print(array[i] + ",");
             }
