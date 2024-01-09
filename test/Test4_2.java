@@ -1,6 +1,6 @@
 package test;
 
-public class Test4 {
+public class Test4_2 {
 
 	public static void main(String[] args) {
 		// 要素数20の配列を宣言し、要素に0から5ずつ加算して代入させる。
