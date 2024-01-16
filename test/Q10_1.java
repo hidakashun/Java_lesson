@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Q10_1 {
 
 	public static void main(String[] args) {
-		// 要素数8の整数配列を宣言し、ユーザーに8個の整数を入力して配列に保存し、]
+		// 要素数8の整数配列を宣言し、ユーザーに8個の整数を入力して配列に保存し、
 		//その後、配列の中の数をすべて2倍にして表示するプログラムを作成してください。
 
 		Scanner scanner = new Scanner(System.in);
